@@ -3,10 +3,8 @@
     text-align: center;
     position: relative;
     margin: auto;
-    text-align: center;
-    background: white url(../images/magnifying.png) no-repeat top left;
-    background-size: 50px;
-    padding-left: 20px;
+
+    
 
 }
 
@@ -18,8 +16,7 @@
 }
 
 
-
-img
+#logo
 {
     width: 40%;
     display: block;
