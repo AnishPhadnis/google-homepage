@@ -1,0 +1,30 @@
+#navbar 
+{
+    text-align: center;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    background: white url(../images/magnifying.png) no-repeat top left;
+    background-size: 50px;
+    padding-left: 20px;
+
+}
+
+#navbar input
+{
+    width: 50%;
+    height: 50px;
+    font-size: 20pt;
+}
+
+
+
+img
+{
+    width: 40%;
+    display: block;
+    margin: auto auto;
+    padding-top: 10%;
+
+}
+
