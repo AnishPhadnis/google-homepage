@@ -4,11 +4,15 @@
 
 }
 
+@import url(http://fonts.googleapis.com/css?family=Roboto: 100, 300, 400, 500, 700, 900);
+/** Roboto font family import **/
+
 .header div { /** .header sets background for everything inside class| .header div references specifically div in class **/
     display: inline-block;
     font-size: 13px;
-    font-family: sans-serif, Arial;
+    font-family: 'Roboto', sans-serif, Arial;
     color: rgba(0,0,0,0.87);
+    line-height: 24px;
 }
 
 span:hover {
