@@ -1,11 +1,35 @@
+.header {
+    position: fixed;
+    width: 100%;
+
+}
+
+.header div { /** .header sets background for everything inside class| .header div references specifically div in class **/
+    display: inline-block;
+    font-size: 13px;
+    font-family: sans-serif, Arial;
+    color: rgba(0,0,0,0.87);
+}
+
+span:hover {
+    text-decoration: underline;
+}
+
+.header .left {
+    float: left;
+    margin-left: 15px;
+}
+
+.header .right {
+    float: right;
+    margin-right: 15px;
+
+}
+
 #navbar 
 {
     text-align: center;
-    position: relative;
-    margin: auto;
-
-    
-
+    margin: auto; 
 }
 
 #navbar input
@@ -22,6 +46,14 @@
     display: block;
     margin: auto auto;
     padding-top: 10%;
+
+}
+
+#topbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
 }
 
