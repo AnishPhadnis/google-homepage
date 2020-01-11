@@ -34,6 +34,8 @@ span:hover {
 {
     text-align: center;
     margin: auto; 
+    
+
 }
 
 #navbar input
@@ -41,12 +43,20 @@ span:hover {
     width: 50%;
     height: 50px;
     font-size: 20pt;
+    border-radius: 25px;
+    padding-left: 3.5%;
+
+    background-image: url(../images/magnifying.png);
+    background-repeat: no-repeat;
+    background-size: 3%;
+    background-position: 2% 50%;
+    background-origin: padding-box;
 }
 
 
 #logo
 {
-    width: 40%;
+    width: 25%;
     display: block;
     margin: auto auto;
     padding-top: 10%;
