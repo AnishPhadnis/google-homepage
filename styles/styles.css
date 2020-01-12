@@ -40,17 +40,22 @@ span:hover {
 
 #navbar input
 {
-    width: 50%;
+    width: 40%;
     height: 50px;
-    font-size: 20pt;
+    font-size: 15pt;
     border-radius: 25px;
     padding-left: 3.5%;
 
-    background-image: url(../images/magnifying.png);
+    /** Magnifying Glass Image on Search Bar **/
+    background-image: url(../images/magnifying.png), url(../images/microphone.png);
     background-repeat: no-repeat;
-    background-size: 3%;
-    background-position: 2% 50%;
+    background-size: 3.5%;
+    background-position: 3% 50%, 96%, 50%;
     background-origin: padding-box;
+
+    
+
+    
 }
 
 
@@ -60,6 +65,7 @@ span:hover {
     display: block;
     margin: auto auto;
     padding-top: 10%;
+    padding-bottom: 1%;
 
 }
 
