@@ -80,20 +80,31 @@ span:hover {
 
 }
 
-.button
+.searchbutton
 {
+    padding-left: 35%;
+    padding-top: 2%;
     
+    display: flex;  
+
+
 }
 
-.buttonleft 
+.searchbutton button
 {
+    padding-left: 2%;
+    width: 20%;
+
+    background: #f1f1f1;
+    border-color: #f1f1f1;
 
 }
 
-.buttonright
+#gsearch
 {
-
+    margin-right: 2%;
 }
+
 
 
 .footer
