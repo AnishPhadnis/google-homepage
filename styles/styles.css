@@ -29,6 +29,12 @@ span:hover {
     margin-left: 15px;
 }
 
+#SignIn
+{
+    background: #4387fd;
+    color: white;
+}
+
 .header .right {
     float: right;
     margin-right: 15px;
