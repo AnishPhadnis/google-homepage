@@ -135,6 +135,14 @@ span:hover {
     margin-right: 2%;
 }
 
+#lang
+{
+    padding-left: 42%;
+    padding-top: 3%;
+
+    color: black;
+}
+
 .footer
 {
     background-color: #f1f1f1;
