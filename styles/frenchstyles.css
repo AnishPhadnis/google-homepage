@@ -103,6 +103,10 @@ span:hover {
     background-size: 3.5%;
     background-position: 3% 50%, 96%, 50%;
     background-origin: padding-box;
+
+    border-color: #f1f1f1;
+    border-top-color: #f1f1f1;
+    box-shadow: 2px 2px #f1f1f1;
 }
 
 .searchbutton
